@@ -13,12 +13,14 @@ A web application that analyzes brain MRI scans for tumor detection and classifi
 ### Image Upload
 Drag and drop (or browse for) a CT/MRI scan. Supports DICOM, PNG and JPG.
 
-![Image upload page](screenshots/upload-page.png)
+<img width="1392" height="852" alt="image" src="https://github.com/user-attachments/assets/4f6d843f-c82f-40da-9554-b01bbde21f11" />
+
 
 ### Analysis and Grad-CAM Visualization
 The result page shows the detection status, confidence score, tumor details, and a Grad-CAM heatmap with an adjustable opacity slider.
 
-![Analysis page with Grad-CAM heatmap](screenshots/analysis-page.png)
+<img width="1266" height="887" alt="image" src="https://github.com/user-attachments/assets/e7150145-91bd-424a-9d03-dfa63f28bdee" />
+
 
 ---
 
